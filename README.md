@@ -20,5 +20,5 @@ Of course.
 <details>
 <summary>How do you use this?</summary>
 <br>
-Check the docs!
+Check the <a href="./docs.md"> docs! </a>
 </details>
