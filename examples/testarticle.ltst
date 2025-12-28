@@ -1,0 +1,12 @@
+*s*
+* {
+    *imp url('https://fonts.googleapis.com/css2?family=BBH+Hegarty&display=swap')$
+    ffa "BBH Hegarty", sans-serif$
+    fsz 32px$
+    bgc black$
+    txc white$
+}
+%s*
+#!*c*This is a test article to see how well litesite is%c*%!%#
+lorem ipsum sit amet blah blah blah
+

@@ -1,0 +1,26 @@
+*title%*
+
+
+*i*
+importtest.ltst
+%i*
+
+--this is a comment
+
+
+*c* centered text! %c*
+#huge text%#
+*n*
+regular text
+*n*
+!bold text%!
+*n*
+~strikethrough%~
+*n*
+\italic%\
+*n*
+new line!
+*n*
+!escaped%! text/!/!
+*n*
+*l* "./fasz"** link %l*

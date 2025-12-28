@@ -1,0 +1,17 @@
+*s*
+* {
+    *imp url('https://fonts.googleapis.com/css2?family=BBH+Hegarty&display=swap')$
+    ffa "BBH Hegarty", sans-serif$
+    bgc black$
+    txc white$
+}
+.importsuccess{
+    fwg 1000$
+    bgc green$
+    txc white$
+}
+%s*
+*d* class="importsuccess"**
+successfully imported from importtest.ltst!
+%d*
+*r*
