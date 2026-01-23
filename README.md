@@ -18,7 +18,7 @@ I was bored.
 Of course.
 </details>
 <details>
-<summary>How do you use this?</summary>
+<summary>How do I use this?</summary>
 <br>
 Check the <a href="./docs.md"> docs! </a>
 </details>
