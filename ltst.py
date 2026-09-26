@@ -132,4 +132,3 @@ if len(sys.argv) >= 2:
             ltstout.close()
             print("Done!")
             
-            #print(f"lines: {l}, \ncontent: \n{ltst}")            
