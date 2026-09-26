@@ -133,4 +133,4 @@ if len(sys.argv) >= 2:
         print("Done!")
         #print(f"lines: {l}, \ncontent: \n{ltst}")
 else:
-    print("File needed! Use translate.py [filename.ltst]")
+    print("File needed! Use translate.py [filename].ltst")
