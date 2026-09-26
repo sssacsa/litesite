@@ -8,7 +8,7 @@ To translate use `ltst.py [filename.ltst]`!<br>
 *Adding the translator to PATH is recommended*
 
 ## 2. HTML
-`#text%#` - huge test <br>
+`#text%#` - h1 <br>
 `!text%!` - **bold** text <br>
 `\text%!` - *italic* text <br>
 `~text%~` - ~~strikethrough~~ text <br>
