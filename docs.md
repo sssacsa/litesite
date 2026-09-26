@@ -1,13 +1,14 @@
 # litesite docs
 
-## 1. Install & translate instructions
+## 1. Install & translating instructions
 Download Python, then download the translator. That's it. 
 <br>
-To set up everything use `translate.py setup`, and to translate use `translate.py [filename.ltst] [filename.html]`!<br>
-*filename.html is optional* <br>
+To translate use `ltst.py [filename.ltst]`!<br>
+##### Multiple ltst files can be translated at once! 
 *Adding the translator to PATH is recommended*
 
 ## 2. HTML
+`#text%#` - huge test <br>
 `!text%!` - **bold** text <br>
 `\text%!` - *italic* text <br>
 `~text%~` - ~~strikethrough~~ text <br>
